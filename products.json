@@ -1,6 +1,6 @@
 {
     "Processors": [
-        {"id": 1, "title": "Intel i9", "description": "High-performance CPU", "price": 500, "image": "./IMAGES/intel09.jpg"},
+        {"id": 1, "title": "Intel i9", "description": "High-performance CPU", "price": 500, "image": "intel09.jpg"},
         {"id": 2, "title": "AMD Ryzen 9", "description": "Powerful gaming CPU", "price": 480, "image": "IMAGES/vlcsnap-2025-03-11-16h18m53s956.jpg.webp"},
         {"id": 3, "title": "Intel i7", "description": "Gaming CPU", "price": 350, "image": "IMAGES/intel7.jpg"},
         {"id": 4, "title": "AMD Ryzen 7", "description": "Multitasking CPU", "price": 300, "image": "IMAGES/images.jpeg"},
