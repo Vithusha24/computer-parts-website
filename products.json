@@ -37,6 +37,6 @@
         {"id": 25, "title": "Seagate Barracuda 2TB", "description": "Reliable HDD", "price": 90, "image": "IMAGES/device3.jpg"},
         {"id": 26, "title": "Crucial P3 Plus 1TB", "description": "Affordable NVMe SSD", "price": 120, "image": "IMAGES/device4.jpg"},
         {"id": 27, "title": "Kingston NV2 2TB", "description": "Budget NVMe SSD", "price": 160, "image": "IMAGES/device5.jpg"},
-        {"id": 28, "title": "Samsung 870 EVO 1TB", "description": "SATA SSD", "price": 130, "image": "IMAGES/devie6.jpg"}
+        {"id": 28, "title": "Samsung 870 EVO 1TB", "description": "SATA SSD", "price": 130, "image": "IMAGES/device6.jpg"}
     ]
 }
